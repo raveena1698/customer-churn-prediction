@@ -2,7 +2,6 @@
 
 This project analyzes a telecommunications dataset to predict whether a customer will churn using a combination of supervised machine learning models. The goal is to support the business in identifying high-risk customers early and reducing churn rates through targeted interventions.
 
-This project was developed for the module DBA5107 - Quantitative Risk Management.
 
 ---
 
